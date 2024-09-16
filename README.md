@@ -1,1 +1,2 @@
 # Result-Scrapper-For-BTU
+This Python Script lets you scrape the result of students in mass using selenium webdriver and other things to bypass captcha, since it happens in real time, it requires undisturbed computer for 1 hour or 2 for 400 studensts, it requires quite a bit of libraries,, so intall it and it may not work due to difference in screen size, so modify the ss taking parts of code so they work with screen size
